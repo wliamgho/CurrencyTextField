@@ -1,0 +1,22 @@
+{
+  "name": "CurrencyTextField",
+  "version": "0.1.0",
+  "summary": "A short description of CurrencyTextField.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/william-gho/CurrencyTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "william-gho": "william@ajaib.co.id"
+  },
+  "source": {
+    "git": "https://github.com/william-gho/CurrencyTextField.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CurrencyTextField/Classes/**/*"
+}
